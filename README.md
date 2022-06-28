@@ -26,7 +26,7 @@
 <a href="https://twitter.com/mrtrinob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrtrinob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanjim-shah-kabir-8a040820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjim-shah-kabir-8a040820b" height="30" width="40" /></a>
 <a href="https://fb.com/tanjim.shah.kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjim.shah.kabir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/trinobsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trinobsec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucque-lkhljhuv_zkjw1zgug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucque-lkhljhuv_zkjw1zgug" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
